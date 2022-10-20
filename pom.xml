@@ -1,10 +1,19 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <groupId>com.hpel_project.app</groupId>
+  <artifactId>sample-java-app</artifactId>
+  <version>1.0.-SNAPSHOT</version>
   <packaging>jar</packaging>
 
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+<!--
   <name>@ant.project.name@</name>
   <description>@description@</description>
   <url>@project.url@</url>
@@ -33,3 +42,4 @@
     </developer>
   </developers>
 </project>
+-->
