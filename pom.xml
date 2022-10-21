@@ -17,12 +17,13 @@
     <dependency>
       <groupId>com.beust</groupId>
       <artifactId>jcommander</artifactId>
-      <scope>compile</scope>
+      <version>1.82</version>
     </dependency>
 
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
+      <version>1.18.24</version>
       <scope>compile</scope>
     </dependency>
 
